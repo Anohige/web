@@ -1,6 +1,6 @@
 // MQTT Broker details
 // Using EMQX public broker via WSS on port 8084
-const brokerUrl = "wss://broker.emqx.io:8084/mqtt";
+const brokerUrl = "wss://broker.emqx.io:8083/mqtt";
 const inputTopic = "mytopic/input";
 const outputTopic = "mytopic/output";
 
